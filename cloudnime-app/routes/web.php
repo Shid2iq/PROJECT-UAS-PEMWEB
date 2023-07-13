@@ -29,6 +29,8 @@ Route::get('/', function () {
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/list', [HomeController::class, 'list']);
 Route::get('/detail', [HomeController::class, 'detail']);
+Route::get('/detail2', [HomeController::class, 'detail2']);
+Route::get('/detail3', [HomeController::class, 'detail3']);
 Route::get('/about', [HomeController::class, 'about']);
 Route::get('/contact', [HomeController::class, 'contact']);
 

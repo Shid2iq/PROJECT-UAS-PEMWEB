@@ -52,13 +52,13 @@
                                 </ol>
                                 <div class="carousel-inner">
                                   <div class="carousel-item active">
-                                    <img class="d-block w-100" src="assets/img/one piece.webp" alt="First slide">
+                                    <img class="d-block w-100" src="assets/img/Bleach.png" alt="First slide">
                                   </div>
                                   <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/slide3.png" alt="Second slide">
+                                    <img class="d-block w-100" src="assets/img/slide2.png" alt="Second slide">
                                   </div>
                                   <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/slide4.png" alt="Third slide">
+                                    <img class="d-block w-100" src="assets/img/slide.png" alt="Third slide">
                                   </div>
                                 </div>
                                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -76,10 +76,10 @@
                               <!-- Header text content-->
                               <div class=" text-xxl-start">
                                 
-                                <h1 class="fw-bolder mb-5"><span class="text-gradient d-inline">One Piece</span></h1>
-                                <h4 class="fw-bolder mb-5"><span class="mr-5 border rounded">GENRE : Action</span> <span class="border rounded">RATING : 8.7&#11088;</span></h4>
+                                <h1 class="fw-bolder mb-5"><span class="text-gradient d-inline">Bleach</span></h1>
+                                <h4 class="fw-bolder mb-5"><span class="mr-5 border rounded">GENRE : Action</span> <span class="border rounded">RATING : 8&#11088;</span></h4>
                                 
-                                <div class="fs-5 fw-light text-muted">ne Piece (Jepang: ワンピース, Hepburn: Wan Pīsu) adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Eiichiro Oda. Manga ini telah dimuat di majalah Weekly Shōnen Jump milik Shueisha sejak tanggal 22 Juli 1997, dan telah dibundel menjadi 105 volume tankōbon hingga Maret 2023. Ceritanya mengisahkan petualangan Monkey D. Luffy, seorang anak laki-laki yang memiliki kemampuan tubuh elastis seperti karet setelah memakan Buah Iblis secara tidak disengaja. Luffy bersama kru bajak lautnya, yang dinamakan Bajak Laut Topi Jerami, menjelajahi Grand Line untuk mencari harta karun terbesar di dunia yang dikenal sebagai "One Piece" dalam rangka untuk menjadi Raja Bajak Laut yang berikutnya.</div>
+                                <div class="fs-5 fw-light text-muted">Ichigo Kurosaki adalah seorang remaja dari Kota Karakura yang dapat melihat hantu, kemampuan yang nanti akan membawanya bertemu dengan sosok supernatural bernama Rukia Kuchiki. Rukia adalah seorang Shinigami, yang dipercaya untuk menuntun jiwa-jiwa orang mati dari Dunia Nyata ke Soul Society (尸魂界 (ソウル·ソサエティ), terj. har. "Dunia Roh Mati")—sebuah alam baka spiritual yang merupakan tempat asalnya—dan juga untuk membasmi Hollow, jiwa tersesat mirip monster yang dapat menyerang arwah dan manusia. Ketika Rukia terluka parah saat melindungi Ichigo dari Hollow yang dikejarnya, Rukia memberikan kekuatannya kepada Ichigo agar dia dapat menggantikannya sementara Rukia memulihkan diri.</div>
                             </div>
                         </div>
                     </div>

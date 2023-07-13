@@ -27,6 +27,18 @@ class HomeController extends Controller
         return view('page/detail', compact('movies'));
     }
 
+    public function detail2()
+    {
+        $movies = Movie::all();
+        return view('page/detail2', compact('movies'));
+    }
+
+    public function detail3()
+    {
+        $movies = Movie::all();
+        return view('page/detail3', compact('movies'));
+    }
+
     public function about()
     {
         $movies = Movie::all();

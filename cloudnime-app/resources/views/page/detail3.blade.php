@@ -52,13 +52,13 @@
                                 </ol>
                                 <div class="carousel-inner">
                                   <div class="carousel-item active">
-                                    <img class="d-block w-100" src="assets/img/one piece.webp" alt="First slide">
+                                    <img class="d-block w-100" src="assets/img/Suzume.png" alt="First slide">
                                   </div>
                                   <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/slide3.png" alt="Second slide">
+                                    <img class="d-block w-100" src="assets/img/slide5.png" alt="Second slide">
                                   </div>
                                   <div class="carousel-item">
-                                    <img class="d-block w-100" src="assets/img/slide4.png" alt="Third slide">
+                                    <img class="d-block w-100" src="assets/img/slide6.png" alt="Third slide">
                                   </div>
                                 </div>
                                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -76,10 +76,11 @@
                               <!-- Header text content-->
                               <div class=" text-xxl-start">
                                 
-                                <h1 class="fw-bolder mb-5"><span class="text-gradient d-inline">One Piece</span></h1>
-                                <h4 class="fw-bolder mb-5"><span class="mr-5 border rounded">GENRE : Action</span> <span class="border rounded">RATING : 8.7&#11088;</span></h4>
+                                <h1 class="fw-bolder mb-5"><span class="text-gradient d-inline">Suzume</span></h1>
+                                <h4 class="fw-bolder mb-5"><span class="mr-5 border rounded">GENRE : Fantasy</span> <span class="border rounded">RATING : 8.4&#11088;</span></h4>
                                 
-                                <div class="fs-5 fw-light text-muted">ne Piece (Jepang: ワンピース, Hepburn: Wan Pīsu) adalah sebuah seri manga Jepang yang ditulis dan diilustrasikan oleh Eiichiro Oda. Manga ini telah dimuat di majalah Weekly Shōnen Jump milik Shueisha sejak tanggal 22 Juli 1997, dan telah dibundel menjadi 105 volume tankōbon hingga Maret 2023. Ceritanya mengisahkan petualangan Monkey D. Luffy, seorang anak laki-laki yang memiliki kemampuan tubuh elastis seperti karet setelah memakan Buah Iblis secara tidak disengaja. Luffy bersama kru bajak lautnya, yang dinamakan Bajak Laut Topi Jerami, menjelajahi Grand Line untuk mencari harta karun terbesar di dunia yang dikenal sebagai "One Piece" dalam rangka untuk menjadi Raja Bajak Laut yang berikutnya.</div>
+                                <div class="fs-5 fw-light text-muted">Suzume (Jepang: すずめの戸締まり, Hepburn: Suzume no Tojimari, terj. har. "Penguncian Pintu Suzume") adalah film petualangan fantasi animasi Jepang tahun 2022 yang diproduksi oleh CoMix Wave Films dan diedarkan oleh Toho. Film ini menggambarkan seorang gadis SMA dan seorang pemuda misterius yang mencoba mencegah terjadinya rentetan bencana di penjuru Jepang. Film ini mulai digarap pada tahun 2020, ditulis dan disutradarai oleh Makoto Shinkai.
+                                                                      Nanoka Hara dan Hokuto Matsumura menjadi pengisi suara dalam film ini. Desain karakter dilakukan oleh Masayoshi Tanaka, pengarah animasi oleh Kenichi Tsuchiya, pengarah seni oleh Takumi Tanji, dan pengarah musik oleh Radwimps dan Kazuma Jinnouchi.</div>
                             </div>
                         </div>
                     </div>

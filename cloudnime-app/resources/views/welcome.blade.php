@@ -123,7 +123,7 @@
                                   <div class="card-header">Bleach</div>
                                   <div class="card-body">
                                     <p class="card-text">Bercerita tentang ichigo kurasaki yang menjadi shinigami</p>
-                                    <a href="/detail" class="btn btn-primary">Detail</a>
+                                    <a href="/detail2" class="btn btn-primary">Detail</a>
                                   </div>
                                   
                                 </div>
@@ -136,7 +136,7 @@
                                   <div class="card-header">Suzume</div>
                                   <div class="card-body">
                                     <p class="card-text">Film ketiga dari makoto shinkai bercerita tentang kunci </p>
-                                    <a href="/detail" class="btn btn-primary">Detail</a>
+                                    <a href="/detail3" class="btn btn-primary">Detail</a>
                                   </div>
                                 </div>
                               </div>
